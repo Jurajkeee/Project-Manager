@@ -16,5 +16,5 @@
 - Tactical to-do list
 - Strategical to-do list
 - Project Progress
-##### Release: NAN
+### Release: NAN
 #### Current-stage: design
